@@ -19,7 +19,8 @@ Hi I am Aadit Kannan. I am 14 and like to code.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaditMassaHacka&show_icons=true&theme=tokyonight)
-<p allign right> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaditMassaHacka&langs_count=100&theme=tokyonight&layout=compact" alt="Aadit's :: Top Langs (PUBLIC)" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaditMassaHacka&langs_count=100&theme=tokyonight&layout=compact" alt="Aadit's :: Top Langs (PUBLIC)" /></p>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aaditmassahacka.aaditmassahacka)
