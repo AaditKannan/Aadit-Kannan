@@ -2,9 +2,9 @@
 
 Hi I am Aadit Kannan. I am 14 and like to code.
 
-[![Linkedin Badge](https://img.shields.io/badge/-AaditKannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadit-kannan/)](https://www.linkedin.com/in/aadit-kannan/)
+[![Linkedin Badge](https://img.shields.io/badge/-AaditKannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadit-kannan-693bb822a/)](https://www.linkedin.com/in/aadit-kannan-693bb822a/)
 [![Instagram Badge](https://img.shields.io/badge/-aaditkannan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aaditkannan/)](https://instagram.com/aaditkannan)
-[![Youtube Badge](https://img.shields.io/badge/-aad1t-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/aad1t)](https://www.youtube.com/c/aad1t)
+[![Youtube Badge](https://img.shields.io/badge/-aad1t-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UClompjyQ83_Riyb7FtTbPdQ)](https://www.youtube.com/channel/UClompjyQ83_Riyb7FtTbPdQ)
 [![Gmail Badge](https://img.shields.io/badge/-aaditkannan734@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaditkannan734@gmail.com)](mailto:aaditkannan734@gmail.com)
 
 ## ⚡ Technologies
